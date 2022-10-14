@@ -1,0 +1,8 @@
+The list of sensitivity test used in thesis 
+'AC_experiment.m': attenuation coefficient test 
+'cyb_experiment.m': cyanobacteria initial profile test
+'GR_experiment.m': cyanobacteria growth rate test
+'IT_experiment.m': inflow temperature test 
+'IV_experiment.m': inflow volume test 
+'SR_experiment.m': surface radiation test 
+'odlake_v6_SR_exp.m': the specific model body for SR experiment 
