@@ -1,0 +1,9 @@
+OdLake - one-day lake simulation model 
+by Ming Cheng 
+Research School of Earth Sciences, 
+the Australian National University 
+
+Folder 'body': model body part 
+'air_sea': air-sea toolbox 
+'Application': the application of OdLake on Lake Cadagno 
+'sensitivity_test': the sensitivity test in Cheng's thesis 
