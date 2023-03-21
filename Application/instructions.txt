@@ -1,3 +1,0 @@
-'OdLake_output.m': roughly plot the results in testing 
-'plot_base.m': plot scientific figures 
-'rawdatainputs': load the measured data
