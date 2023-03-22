@@ -1,0 +1,7 @@
+'OdLake_output.m': roughly plot the results in testing 
+
+'plot_base_JGR.m': plot scientific figure for JGR:biogeosciences 
+
+'plot_base_MT.m': plot scientific figures for Masters thesis
+
+'rawdatainputs': load the measured data
