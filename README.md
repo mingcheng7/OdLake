@@ -6,6 +6,9 @@ Developed based on MyLake model version 1.1.2 (https://github.com/biogeochemistr
 By Ming Cheng, Research School of Earth Science, the Australian National University, Canberra, ACT, Australia 
 
 Folder 'v0.1': OdLake model main part (version 0.1)
+
                'body': model coding part
+               
                'air_sea': Air_Sea Toolbox (From: https://github.com/sea-mat/air-sea)
+               
                'Application': the application of OdLake on Lake Cadagno 
