@@ -7,8 +7,8 @@ By Ming Cheng, Research School of Earth Science, the Australian National Univers
 
 Folder 'v0.1': OdLake model main part (version 0.1)
 
-               'body': model coding part
+               'body': OdLake model codes
                
                'air_sea': Air_Sea Toolbox (From: https://github.com/sea-mat/air-sea)
                
-               'Application': the application of OdLake on Lake Cadagno 
+               'Application': application of OdLake to Lake Cadagno, Swiss 
