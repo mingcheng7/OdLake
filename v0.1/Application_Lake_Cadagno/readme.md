@@ -15,3 +15,7 @@ These files are used to apply the OdLake model to Lake Cadagno, Swiss and to sho
     'Para_data.xlsx': a few adjustable parameters in the model 
   
     'LakeCadagnoData.xlsx': the real water column sampling data in Lake Cadagno on 27 June 2015 
+    
+    'Results': scientific figures 
+    
+    'sensitivity_test': 4 sensitivity tests in the paper 
