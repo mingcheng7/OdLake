@@ -23,3 +23,5 @@ This folder is used to do a few sensitivity tests
     'Para_data_growth_rate_experiment.xlsx': a few parameter sets (change in cyanobacteria base growth rate) used in cyanobacteria growth rate test 
 
     'LakeCadagnoData.xlsx': the real water column sampling data in Lake Cadagno on 27 June 2015 
+    
+    'Results': Scientific figures for each sensitivity test 
